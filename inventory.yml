@@ -1,2 +1,4 @@
-#add your instance ips here in palce of xx..
-xxx.xxx.xxx.xx # <----- Add IP for sentry/validator node
+all:
+  hosts:
+    bor1.golem.network:
+    bor2.golem.network:
