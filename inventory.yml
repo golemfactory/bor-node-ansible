@@ -2,3 +2,5 @@ all:
   hosts:
     bor1.golem.network:
     bor2.golem.network:
+    0.bor3.golem.network:
+    1.bor3.golem.network:
